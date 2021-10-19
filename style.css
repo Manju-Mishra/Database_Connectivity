@@ -1,0 +1,58 @@
+
+#p1{
+    height: 70px;
+    text-align: center;
+    font-family:fantasy;
+    color: darkred;
+    width: 70%;
+}
+
+#p2{
+    font-size: 19px;
+   width: 70%;
+   font-style: italic;
+}
+#img{
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 2%;
+}
+li{
+    font-size: 20px;
+    font-style: italic;
+    padding-left: 4%;
+    padding-right: 6%;
+}
+#div{
+    text-align: center;
+}
+#button{
+    margin-bottom: 27%;
+    margin-top: 27%;
+    height: 50px;
+    width: auto;
+}
+
+#p{
+    width: 60%;
+    height: 1000px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#t{
+    font-size: 50px;
+    font-style: italic;
+    font-family: fantasy;
+    color: darkslategrey;
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+label{
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
